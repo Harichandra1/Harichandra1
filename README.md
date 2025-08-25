@@ -1,47 +1,72 @@
-## Hi there, I'm Hari 👋  
-💻 Backend Developer | ☁️ DevOps Learner | 🧩 Problem Solver | 🚀 Building AI Agents  
+<!-- Special GitHub Profile README for Harichandra1 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&lines=Backend+Engineer;DevOps+Explorer;DSA+Problem+Solver;AI+Agent+Builder)](https://git.io/typing-svg)
+<!-- Special GitHub Profile README for Harichandra1 -->
 
+<!-- Banner / Hero Section -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hari+Chandra+Prasad+Rao;Backend+Engineer+%7C+DevOps+Explorer;AI+Agent+Builder+%7C+Problem+Solver;Always+Learning+%7C+Always+Building)
+
+</div>
+---
 
 ## 🚀 About Me
-- 🎓 Aspiring Software Engineer | Strong in Java + Spring Boot
+- 🎓 Aspiring **Software Engineer** with strong foundation in **Java + Spring Boot**
 - 🧠 Currently mastering **DSA (Graphs, DP, Backtracking)**  
 - 🛠️ Building projects with **React, Flask, EfficientNet, and DevOps tools**
-- 🌱 Exploring **AI Agents, Cloud, and System Design**
-- ⚡ Fun fact: I love chess & solving tricky puzzles
+- ☁️ Exploring **Cloud, AI Agents, and System Design**
+- ⚡ Fun fact: I love **chess** and solving tricky puzzles 🧩
+
+---
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,flask,py,cpp,mysql,git,docker,aws" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harichandra1&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harichandra1&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harichandra1&layout=compact&theme=tokyonight" alt="langs" />
+</p>
 
+---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+## 📈 Activity Graph
+[![Hari’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harichandra1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
-**Harichandra1/Harichandra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🗓️ My Journey
+```text
+2022 ─── ☕ Wrote first Java app
+2023 ─── 🌦️ Built WeatherAPI (JavaFX)
+2024 ─── 🎶 Created PromptTunes (AI + JS)
+2025 ─── 🚀 Exploring DevOps + AI Agents
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/hari-chandra-prasad-rao-689428244/)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:cheetiharichandra2@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Hari5423/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harichandra1/Harichandra1/main/assets/divider.gif" width="600"/>
+</p>
+
+<p align="center">
+   <b>⚡ Ready to collaborate, innovate, disrupt ⚡</b>  
+</p>
+
+<p align="center">
+   Let’s build the future — together 🚀
+</p>
