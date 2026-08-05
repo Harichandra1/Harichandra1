@@ -79,18 +79,23 @@ Most of what I know, I learned by building the things below — 25 public projec
 
 ---
 
-## Stats
+## By the numbers
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harichandra1&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=00000000&icon_color=58a6ff&hide=issues">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Harichandra1&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&hide=issues" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Harichandra1&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8">
-    <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harichandra1&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-  </picture>
-</p>
+**25 public projects** — 10 Spring Boot services · 5 AI &amp; RAG builds · 7 web apps · 3 systems projects in C.
+
+Code by language, across every repo I've authored:
+
+```text
+Python       ███████████████████████████████▌    31.8%
+TypeScript   ███████████████████████             23.2%
+JavaScript   ███████████████                     15.4%
+HTML         ██████████████                      14.0%
+Java         ████████                             8.4%
+CSS          █████▌                               5.7%
+other        █▌                                   1.5%   C · Shell · MDX · Dockerfile
+```
+
+Bytes undersell Java — ten Spring services are a lot of design in not many lines, and one Python agent is most of that top bar.
 
 ---
 
